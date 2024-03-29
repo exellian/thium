@@ -8,3 +8,6 @@ edition = "2021"
 [dependencies]
 pqc_dilithium = { version =  "0.2.0",  features = ["mode5"] }
 base64 = "0.22.0"
+sha2 = "0.10"
+rand = "0.8.5"
+ripemd = "0.1.3"
